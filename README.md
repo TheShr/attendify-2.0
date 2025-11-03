@@ -59,7 +59,7 @@ Insights & graphs
 
 Multi-institute support
 
-QR + Face hybrid verification
+Location + Face hybrid verification
 
 Admin web console
 
@@ -74,3 +74,4 @@ Lead Developer: Anuj Sharma
 ⭐ Support
 
 If this project helped or inspired you, please consider giving it a ⭐ on GitHub!
+
